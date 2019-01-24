@@ -9,7 +9,7 @@ runtime:
 build:
   pre_ci_boot:
     image_name: drydock/c7cloall
-    image_tag: master
+    image_tag: v6.12.4
     pull: true
     
   ci:
